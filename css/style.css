@@ -72,7 +72,7 @@ td {
   outline: 0;
   font-weight: inherit;
   font-style: sans-serif;
-  font-family: futura;
+  font-family: futura,'Courier New', Courier, monospace;
   font-size: 100%;
   vertical-align: baseline;
 }
