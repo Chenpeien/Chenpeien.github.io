@@ -71,8 +71,8 @@ td {
   border: 0;
   outline: 0;
   font-weight: inherit;
-  font-style: inherit;
-  font-family: inherit;
+  font-style: sans-serif;
+  font-family: futura;
   font-size: 100%;
   vertical-align: baseline;
 }
@@ -347,7 +347,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 20%;
   background: url("https://www.teahub.io/photos/full/107-1070828_best-chimpanzee-background-id-toddler-mom-meme.jpg") center #000;
   background-size: cover;
   z-index: -1;
